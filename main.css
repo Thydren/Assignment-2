@@ -1,0 +1,11 @@
+h1 {
+    text-decoration: underline;
+}
+
+.question {
+    font-weight: bold;
+}
+
+#copyright {
+    font-size: 60%;
+}
